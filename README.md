@@ -10,4 +10,4 @@ _Completed._
 ---------------------------------------------------
 
 ![Screenshot](Excursion1.png)
-![Screenshot](Excursion2%20.png)
+![Screenshot](Excursion2.png)
